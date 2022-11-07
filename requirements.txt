@@ -1,0 +1,5 @@
+django<4
+django-readers
+django-debug-toolbar
+djangorestframework
+factory_boy
